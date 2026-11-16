@@ -10,7 +10,7 @@ By day I work with integrations and logistics software. Before that: industrial 
 |---|---|---|
 | **[Market Screener](https://github.com/godvig/market-screener)** | Score stocks with your own rules. Turns a stock-picking spreadsheet into live, explained scorecards – bring your own data from Yahoo, Börsdata or a CSV export. Golden horses included. | [screener.godvig.com](https://screener.godvig.com) |
 | **[Shadowbook](https://github.com/godvig/shadowbook)** | Chess opponent prep: type in a chess.com or Lichess username and spar against a bot that opens exactly like that player. Play the person, not the engine. | [shadowbook.godvig.com](https://shadowbook.godvig.com) |
-| **[Släktsagan](https://github.com/godvig/family-tree)** | A genealogy workbench (Swedish for "the family saga") for the family's designated researcher: tree, fan chart, sources, timeline, map – no account, your data stays yours. | [saga.godvig.com](https://saga.godvig.com) |
+| **[Släktsagan](https://github.com/godvig/family-saga)** | A genealogy workbench (Swedish for "the family saga") for the family's designated researcher: tree, fan chart, sources, timeline, map – no account, your data stays yours. | [saga.godvig.com](https://saga.godvig.com) |
 | **[adamenglund.eu](https://github.com/godvig/godvig.github.io)** | My personal site, rebuilt from a 2019 React project. | [adamenglund.eu](https://adamenglund.eu) |
  
 Next up: **Hoard**, a Decky Loader plugin that shows how much disk space each game (mods included) really eats on SteamOS.
